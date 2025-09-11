@@ -18,10 +18,10 @@
   "vars": {
     "API_CONFIGS": [
       {
-        "apiKey": "AIzaSyCNUGhuoAvvaSJ2ypsqzgtuCaLSusRZs5Y",
+        "apiKey": "sk-shannengkeji",
         "apiName": "gemini-2.0-flash",
         "name": "Render",
-        "url": "https://mygemini-balance.com/openai/v1/chat/completions"
+        "url": "https://gbremder.onrender.com/openai/v1/chat/completions"
       },
       {
         "apiKey": "AIzaSyDIlXo2EBB798zw6gt8AGiAMpF4noLSv6I",
