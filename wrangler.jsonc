@@ -22,12 +22,6 @@
         "apiName": "gemini-2.0-flash",
         "name": "Render",
         "url": "https://gbremder.onrender.com/openai/v1/chat/completions"
-      },
-      {
-        "apiKey": "sk-shannengkeji",
-        "apiName": "gemini-2.0-flash",
-        "name": "AWS",
-        "url": "http://16.170.255.243:8000/openai/v1/chat/completions"
       }
     ],
     "QUESTIONS": ["xxxxx1", "xxxxxxx2", "xxxxxxx3", "xxxxxxx4"]
