@@ -19,11 +19,11 @@
     "API_CONFIGS": [
       {
         "apiKey": "sk-shannengkeji",
-        "apiName": "gemini-2.0-flash",
+        "apiName": "gemini-2.0-flash-lite",
         "name": "Render",
         "url": "https://gbremder.onrender.com/openai/v1/chat/completions"
       }
     ],
-    "QUESTIONS": ["xxxxx1", "xxxxxxx2", "xxxxxxx3", "xxxxxxx4"]
+    "QUESTIONS": ["what's the time", "tell a joke", "lose weight", "make money"]
   }
 }
